@@ -21,4 +21,41 @@ if you have a higher version you can simply create another enviroment with a sui
 
 ![image](https://user-images.githubusercontent.com/61950036/222779052-f79472f1-75c8-4290-85de-62686234c3b0.png)
 
+## Libraries Details 
+
+autopy : used to control the mouse with python 
+
+cv2 : used to access the camera 
+
+mediapipe : used to recognize the hand landmarks 
+
+pyscreenshot : used to take a screenshot by python 
+
+## Hand Poses
+
+### Movement Pose : 
+
+![image](https://user-images.githubusercontent.com/61950036/222793693-4be796ad-13d4-4b26-b9b0-8b25c6b7041d.png)
+
+### Hold Pose : 
+
+![Hold Pose](https://user-images.githubusercontent.com/61950036/222793994-1c0e2870-b7e9-4f41-b78f-eae2438a235e.png)
+
+
+### Left Click with move : 
+
+![Left Click while moving](https://user-images.githubusercontent.com/61950036/222793873-57855cda-bb0e-45d6-b18e-dffd6b2aad00.png)
+
+### Left Click with hold : 
+
+![Left Click with Hold pose](https://user-images.githubusercontent.com/61950036/222794140-44695716-3daf-4003-9ee8-ac318ea52ed8.png)
+
+### Right Click : 
+
+![Right Click ](https://user-images.githubusercontent.com/61950036/222794227-fe5ea404-553f-4b04-9ed7-c3a24cefa6c2.png)
+
+### Screenshot Pose : 
+
+![Screenshot Pose](https://user-images.githubusercontent.com/61950036/222794279-7a6c7bc1-eb79-479d-94d4-f762e0b3802c.png)
+
 
